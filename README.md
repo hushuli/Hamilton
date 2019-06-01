@@ -8,7 +8,8 @@ Most of the people love the song [You'll Be Back](https://www.youtube.com/watch?
 The word cloud for this song. They are basiclly saying Groff is so cute which I am totally agree:)
 ![YoullBeBackWordCloud](/img/YoullBeBackWordCloud.png)
 
+From all the comments in whole soundtrack, we can see the most frequency user had over 250 comments. And the average comments only around 3. 
 
-
+![MostFreqForWholeTrack](/img/MostFreqForWholeTrack.png)
 
 
