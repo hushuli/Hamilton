@@ -12,9 +12,19 @@ From all the comments in whole soundtrack, we can see the most frequency user ha
 
 ![MostFreqForWholeTrack](/img/MostFreqForWholeTrack.png)
 
-From the publish day which at end of 2016 till May 2019, there have few high peaks. In the new year of 2018(around 01/2018), had most comment numbers in those three year. I don't know what happened. 
+From the publish day which at end of 2016 till May 2019, we count the number of comments on each day. As we can see, there have few high peaks. In the new year of 2018(around 01/2018), had most comment numbers in the three years. 
 
 ![CommentCountPerDay](/img/CommentCountPerDay.png)
 
-However, there have 
+I also count the number of comments in every mins in the soundtracks, The first high peak is between the 33mins and 38 mins, which is the song [Satisfied](https://www.youtube.com/watch?v=iWz2Km0UbCY). Very emotional part. It seems touched everyone. 
+
+![CommentPerMins](/img/CommentPerMins.png)
+
+The word cloud from the over 6000 comments in the whole soundtrack, we can see the BRAVO is most frequency word. 
+
+![WordCloudForWholeSoundTrack](/img/WordCloudForWholeSoundTrack.png)
+
+
+
+
 
